@@ -1,0 +1,63 @@
+.main {
+  width: 320px;
+  height: 100%;
+  text-align: left;
+  font-family: 14px "Times new roman", Times, serif;
+  border: 2px solid #777;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #777;
+  background-color: #DDD;
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  border: 1px #FFF;
+  border-style: solid none;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text {
+  text-indent: 0.5em;
+}
+
+.description {
+  border: 1px solid #AAA;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 1px 5px;
+  background-color: #FFF;
+}
+
+img {
+  width: 300px;
+  border: 1px solid #AAA;
+  border-radius: 5px;
+  display: block;
+  margin: auto;
+}
+
+.list {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+span.details {
+  font-weight: bold;
+}
+
+.footer {
+  font-style: italic;
+  font-size: 0.8em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+span.bold {
+  font-weight: 900;
+}
